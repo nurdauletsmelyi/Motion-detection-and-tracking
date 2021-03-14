@@ -1,2 +1,2 @@
-# Motion-detection-and-tracking-
+# Motion-detection-and-tracking
 OpenCV motion detection 
